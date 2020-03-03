@@ -1,1 +1,10 @@
-wew
+table, th, td{
+	border: 1px solid black;
+
+}
+#title{
+	background: black;
+}
+#test{
+	color: white;
+}
